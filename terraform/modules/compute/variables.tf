@@ -21,7 +21,7 @@ variable "subnet_id" {
 variable "ami_id" {
   description = "UBUNTU" 
   type        = string
-  default     = "ami-08a6efd148b1f7504" # Update for your region
+  default     = "ami-0f918f7e67a3323f0" # Update for your region
 }
 
 variable "key_name" {

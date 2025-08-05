@@ -1,2 +1,2 @@
----
-# vars file for roles/jenkins
+jenkins_user: admin
+jenkins_password: admin123
